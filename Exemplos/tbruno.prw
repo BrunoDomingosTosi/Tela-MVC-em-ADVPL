@@ -1,13 +1,13 @@
 #Include "Protheus.ch"
 
-/*/(Protheus.doc) TBruno
-FunÁ„o auxiliar de TI
+/*(Protheus.doc) TBruno
+Fun√ß√£o auxiliar de TI
 
 @author Bruno Domingos
 @since 18/06/2024
 @version 12/Superior
-/*/
+*/
 
 User Function OlaMundo()
-    Alert("Ol·, mundo!")
+    Alert("Ol√°, mundo!")
 Return
